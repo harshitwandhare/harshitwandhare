@@ -1,112 +1,85 @@
 # Harshit Wandhare
 
-**Software & Systems Engineer | Product Builder | AI-Augmented Engineering**
+**Full-Stack & AI/ML Software Engineer** · 3+ years shipping production web & mobile at scale
+🎓 Incoming **MS in Computer Science, UT Dallas (Fall 2026, Intelligent Systems)**
 
-Building scalable systems across web, mobile, and intelligent platforms.
+I build production-grade software end to end — from cross-platform apps used by 100K+ people
+to local-first, open-source AI tooling. Previously SDE at **Reliance Jio** and Product Engineer
+at **Yosemite Crew**; now focused on **AI/ML systems** and developer-grade open source.
 
----
-
-## Core Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-Production-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-![React](https://img.shields.io/badge/React-Systems-61DAFB)
-![React%20Native](https://img.shields.io/badge/React%20Native-Cross--Platform-20232A)
-![Next.js](https://img.shields.io/badge/Next.js-SSR%20%26%20Edge-black)
-![Java](https://img.shields.io/badge/Java-DSA%20%26%20Systems-red)
-![Python](https://img.shields.io/badge/Python-AI%20%26%20Automation-yellow)
-![AI%20Engineering](https://img.shields.io/badge/AI-LLM%20%26%20Agents-purple)
-![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP%20%7C%20Azure-orange)
+📍 Richardson, TX · 📫 harshitwandhare45@gmail.com ·
+🔗 [LinkedIn](https://linkedin.com/in/harshit-wandhare)
 
 ---
 
-## About
+## 🚀 What I'm building now
 
-I design and ship production-grade software systems.
-
-My experience spans enterprise-scale corporate engineering and open-source startup ecosystems — contributing to high-traffic application modules, building reusable systems, and owning cross-platform product releases end-to-end.
-
-I operate at the intersection of:
-
-- Systems thinking  
-- Product execution  
-- Scalable architecture  
-- AI-augmented development  
-
-As AI reshapes engineering, I focus on durable skills: abstraction, system design, performance optimization, automation, and intelligent workflow integration.
+- **[Job Sentinel](https://github.com/harshitwandhare/job-sentinel)** — a local-first, open-source
+  platform that monitors job portals, tracks postings, and generates **ATS-ready résumés tailored
+  per role** with a *local* LLM (Ollama). Python · Playwright · FastAPI · Next.js · `mypy --strict`,
+  ~80% test coverage, full CI (lint/types/tests/secret-scan/supply-chain), Dockerized, v0.1.0 released.
+- **[Kalki](https://github.com/harshitwandhare/kalki)** — an autonomous AI content-generation
+  platform: LLM-scripted short-form video with automated media processing and scheduled publishing.
 
 ---
 
-## Systems & Architecture
+## 💼 Experience
 
-- Modular and scalable application design  
-- Cross-platform architecture (Web ↔ Mobile)  
-- API layer design & service integration  
-- SSR, rendering strategies & performance optimization  
-- State management at scale  
-- Production debugging & release engineering  
-- System design (frontend & full-stack)  
+**Product Engineer — Yosemite Crew (DuneXploration UG, Germany)** · Remote · 2025–2026
+Built the **entire cross-platform React Native mobile app and the frontend web PIMS from scratch,
+single-handedly** — for an open-source veterinary platform that grew to **2.1k+ GitHub stars, 78
+forks, 3,100+ commits**. Integrated IDEXX Labs & Merck Veterinary Manual APIs; ran the full AWS
+stack (Amplify, Cognito, S3, CloudFront) + Supabase/Redis; shipped to the App Store & Play Store;
+built 14 GitHub Actions workflows (CodeQL, Gitleaks, SonarCloud, Chromatic, Playwright E2E).
+*(Work done full-time under the company account [@harshit-yc](https://github.com/harshit-yc).)*
 
----
-
-## AI & Intelligent Systems
-
-- LLM API integrations  
-- Agent-based workflow automation  
-- AI-assisted development pipelines  
-- Prompt engineering for structured engineering tasks  
-- Intelligent tooling integration in product environments  
-
-Focused on practical AI leverage — amplifying engineering capability, not replacing fundamentals.
+**Software Development Engineer I — Reliance Jio Platforms** · 2023–2025
+Built and maintained high-traffic web & mobile apps serving **100K+ monthly active users** (React,
+Next.js, Angular, React Native). Shipped a shared React + TypeScript component library adopted by
+**3+ teams**, and cut average page load **~40%** via SSR and performance tuning.
 
 ---
 
-## Impact-Driven Open Source
+## 🔬 AI / ML
 
-I actively contribute to **community-focused healthcare technology** through open-source collaboration.
-
-At **Yosemite Crew**, I work on cross-platform applications within an animal healthcare ecosystem — shipping production-ready features, managing releases, resolving production issues, and improving system reliability for real users.
-
-🔗 **Yosemite Crew Profile:**  
-https://github.com/harshit-yc
-
-This experience combines:
-
-- Real-world user impact  
-- Community-driven engineering  
-- Production-grade code ownership  
-- Long-term maintainability  
+**Parkify — Automated Number-Plate Recognition** (undergraduate research): an end-to-end YOLOv5 +
+custom-CNN pipeline reaching **95.45% mAP** on detection and **89.66%** character-recognition
+accuracy, with an OpenCV preprocessing stack and a local CUDA training environment. Now extending
+into local-LLM and agentic systems through Job Sentinel and my MS coursework.
 
 ---
 
-## Engineering Foundations
+## 🧰 Tech
 
-Strong foundation in:
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-- Data Structures & Algorithms  
-- Complexity analysis  
-- Object-oriented design  
-- Structured debugging  
-- System-level reasoning  
-
-I approach product engineering with algorithmic discipline and architectural clarity.
-
----
-
-## Long-Term Direction
-
-Evolving toward:
-
-- Platform engineering  
-- Scalable product architecture  
-- AI-integrated system design  
-- Infrastructure-aware engineering  
-- Intelligent developer tooling  
-
-Building systems that remain relevant in an AI-first world.
+**Languages:** TypeScript · Python · JavaScript · Java
+**Frontend/Mobile:** React · Next.js · Angular · React Native · Tailwind
+**Backend/Data:** Node/Express · FastAPI · Spring Boot · Supabase · Redis · MySQL · MongoDB
+**Cloud/DevOps:** AWS · Docker · CI/CD · SonarCloud · Playwright
+**AI/ML:** PyTorch · OpenCV · YOLOv5/CNNs · LLMs (local via Ollama) · agentic workflows
 
 ---
 
-Mumbai, India  
-LinkedIn: https://linkedin.com/in/harshit-wandhare-a088201aa  
-GitHub: https://github.com/harshitwandhare
+## 🎓 Education
+
+- **M.S. Computer Science**, The University of Texas at Dallas — *Intelligent Systems*, Fall 2026
+- **B.E. Computer Engineering**, University of Mumbai (Vidyalankar Institute) — **CGPA 9.53/10**
+
+---
+
+<div align="center">
+
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitwandhare&show_icons=true&hide_rank=true&theme=transparent)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitwandhare&layout=compact&hide=html,css&theme=transparent)
+
+</div>
