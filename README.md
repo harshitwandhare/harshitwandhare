@@ -16,8 +16,10 @@ at **Yosemite Crew**; now focused on **AI/ML systems** and developer-grade open 
 
 - **[Job Sentinel](https://github.com/harshitwandhare/job-sentinel)** — a local-first, open-source
   platform that monitors job portals, tracks postings, and generates **ATS-ready résumés tailored
-  per role** with a *local* LLM (Ollama). Python · Playwright · FastAPI · Next.js · `mypy --strict`,
-  ~80% test coverage, full CI (lint/types/tests/secret-scan/supply-chain), Dockerized, v0.1.0 released.
+  per role** with a *local* LLM (Ollama). **[Live demo →](https://job-sentinel.vercel.app)** ·
+  [docs](https://harshitwandhare.github.io/job-sentinel/). Python · Playwright · FastAPI · Next.js ·
+  `mypy --strict` · 280+ tests (80% coverage gate) · 9 CI gates incl. OpenSSF Scorecard, gitleaks,
+  pip-audit · reproducible `uv.lock` builds · optional multi-user auth · Dockerized · v0.8.0.
 - **[Kalki](https://github.com/harshitwandhare/kalki)** — an autonomous AI content-generation
   platform: LLM-scripted short-form video with automated media processing and scheduled publishing.
 
