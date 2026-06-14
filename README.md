@@ -1,58 +1,70 @@
-# Harshit Wandhare
+<h1 align="center">Harshit Wandhare</h1>
 
-**Full-Stack & AI/ML Software Engineer** · 3+ years shipping production web & mobile at scale
-🎓 Incoming **MS in Computer Science, UT Dallas (Fall 2026, Intelligent Systems)**
+<p align="center">
+  <b>Full-Stack & AI/ML Software Engineer</b> · 3+ years shipping production web &amp; mobile at scale
+</p>
+<p align="center">
+  🎓 Incoming <b>MS in Computer Science — UT Dallas</b> (Fall 2026, Intelligent Systems) · 📍 Richardson, TX
+</p>
 
-I build production-grade software end to end — from cross-platform apps used by 100K+ people
-to local-first, open-source AI tooling. Previously SDE at **Reliance Jio** and Product Engineer
-at **Yosemite Crew**; now focused on **AI/ML systems** and developer-grade open source.
+<p align="center">
+  <a href="https://linkedin.com/in/harshit-wandhare"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:harshitwandhare45@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://job-sentinel.vercel.app"><img src="https://img.shields.io/badge/Live_Project-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Live project" /></a>
+  <img src="https://komarev.com/ghpvc/?username=harshitwandhare&color=059669&style=for-the-badge&label=Profile+views" alt="Profile views" />
+</p>
 
-📍 Richardson, TX · 📫 harshitwandhare45@gmail.com ·
-🔗 [LinkedIn](https://linkedin.com/in/harshit-wandhare)
-
----
-
-## 🚀 What I'm building now
-
-- **[Job Sentinel](https://github.com/harshitwandhare/job-sentinel)** — a local-first, open-source
-  platform that monitors job portals, tracks postings, and generates **ATS-ready résumés tailored
-  per role** with a *local* LLM (Ollama). **[Live demo →](https://job-sentinel.vercel.app)** ·
-  [docs](https://harshitwandhare.github.io/job-sentinel/). Python · Playwright · FastAPI · Next.js ·
-  `mypy --strict` · 280+ tests (80% coverage gate) · [OpenSSF Best Practices badge](https://www.bestpractices.dev/projects/13183) ·
-  10 CI gates incl. CodeQL, Scorecard, gitleaks, pip-audit · reproducible `uv.lock` builds ·
-  optional multi-user auth · Dockerized · v0.8.0.
-
-  <a href="https://job-sentinel.vercel.app"><img src="https://raw.githubusercontent.com/harshitwandhare/job-sentinel/main/.github/assets/demo-hero.gif" alt="Job Sentinel — live terminal replay of a real session: session check, scrape, AI resume build" width="640" /></a>
-- **[Kalki](https://github.com/harshitwandhare/kalki)** — an autonomous AI content-generation
-  platform: LLM-scripted short-form video with automated media processing and scheduled publishing.
+<p align="center">
+  🟢 <b>Open to SWE &amp; AI/ML internships and new-grad roles</b> — I love building reliable systems end to end.
+</p>
 
 ---
+
+I build production-grade software from the ground up — from cross-platform apps used by **100K+ people**
+to **local-first, open-source AI tooling**. Previously an SDE at **Reliance Jio** and Product Engineer at
+**Yosemite Crew**; now focused on **AI/ML systems** and engineering open source to a professional bar
+(typed end-to-end, tested, CI-gated, documented).
+
+## 🚀 Featured work
+
+<a href="https://github.com/harshitwandhare/job-sentinel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitwandhare&repo=job-sentinel&theme=transparent&hide_border=true" alt="Job Sentinel" />
+</a>
+
+**[Job Sentinel](https://github.com/harshitwandhare/job-sentinel)** — a local-first, open-source career
+platform: searches jobs across multiple sources, scores how well your profile matches a role with a
+**local (or bring-your-own-key) LLM**, tracks your whole application pipeline, and generates **ATS-tuned
+résumés &amp; cover letters** — all on your own machine, nothing leaves it. Ships with a **clip-to-track
+browser extension**, a Next.js web UI, a Typer CLI, and a FastAPI backend.
+**[Live demo →](https://job-sentinel.vercel.app)** · [docs](https://harshitwandhare.github.io/job-sentinel/)
+
+> Python · FastAPI · Playwright · Next.js/React · SQLite · `mypy --strict` · ~450 tests ·
+> CI gates: CodeQL · OpenSSF Scorecard · gitleaks · pip-audit · license compliance · reproducible `uv.lock` builds · MIT
+
+**[Kalki](https://github.com/harshitwandhare/kalki)** — an autonomous AI content-generation platform:
+LLM-scripted short-form video with automated media processing and scheduled publishing.
 
 ## 💼 Experience
 
 **Product Engineer — Yosemite Crew (DuneXploration UG, Germany)** · Remote · 2025–2026
-Built the **entire cross-platform React Native mobile app and the frontend web PIMS from scratch,
-single-handedly** — for an open-source veterinary platform that grew to **2.1k+ GitHub stars, 78
-forks, 3,100+ commits**. Integrated IDEXX Labs & Merck Veterinary Manual APIs; ran the full AWS
-stack (Amplify, Cognito, S3, CloudFront) + Supabase/Redis; shipped to the App Store & Play Store;
-built 14 GitHub Actions workflows (CodeQL, Gitleaks, SonarCloud, Chromatic, Playwright E2E).
-*(Work done full-time under the company account [@harshit-yc](https://github.com/harshit-yc).)*
+Single-handedly built the **entire cross-platform React Native app and the web PIMS frontend** for an
+open-source veterinary platform that grew to **2.1k+ GitHub stars, 78 forks, 3,100+ commits**. Integrated
+IDEXX Labs &amp; Merck Veterinary Manual APIs; ran the full AWS stack (Amplify, Cognito, S3, CloudFront)
+plus Supabase/Redis; shipped to the App Store &amp; Play Store; authored 14 GitHub Actions workflows
+(CodeQL, Gitleaks, SonarCloud, Chromatic, Playwright E2E).
+*(Full-time under the company account [@harshit-yc](https://github.com/harshit-yc).)*
 
 **Software Development Engineer I — Reliance Jio Platforms** · 2023–2025
-Built and maintained high-traffic web & mobile apps serving **100K+ monthly active users** (React,
-Next.js, Angular, React Native). Shipped a shared React + TypeScript component library adopted by
-**3+ teams**, and cut average page load **~40%** via SSR and performance tuning.
-
----
+Built and maintained high-traffic web &amp; mobile apps serving **100K+ monthly active users** (React,
+Next.js, Angular, React Native). Shipped a shared React + TypeScript component library adopted by **3+
+teams** and cut average page load **~40%** via SSR and performance tuning.
 
 ## 🔬 AI / ML
 
 **Parkify — Automated Number-Plate Recognition** (undergraduate research): an end-to-end YOLOv5 +
-custom-CNN pipeline reaching **95.45% mAP** on detection and **89.66%** character-recognition
-accuracy, with an OpenCV preprocessing stack and a local CUDA training environment. Now extending
-into local-LLM and agentic systems through Job Sentinel and my MS coursework.
-
----
+custom-CNN pipeline reaching **95.45% mAP** detection and **89.66%** character-recognition accuracy, with
+an OpenCV preprocessing stack and a local CUDA training setup. Now extending into local-LLM and agentic
+systems via Job Sentinel and my MS coursework.
 
 ## 🧰 Tech
 
@@ -71,9 +83,7 @@ into local-LLM and agentic systems through Job Sentinel and my MS coursework.
 **Frontend/Mobile:** React · Next.js · Angular · React Native · Tailwind
 **Backend/Data:** Node/Express · FastAPI · Spring Boot · Supabase · Redis · MySQL · MongoDB
 **Cloud/DevOps:** AWS · Docker · CI/CD · SonarCloud · Playwright
-**AI/ML:** PyTorch · OpenCV · YOLOv5/CNNs · LLMs (local via Ollama) · agentic workflows
-
----
+**AI/ML:** PyTorch · OpenCV · YOLOv5/CNNs · LLMs (local via Ollama + BYO-key) · RAG · agentic workflows
 
 ## 🎓 Education
 
@@ -84,7 +94,11 @@ into local-LLM and agentic systems through Job Sentinel and my MS coursework.
 
 <div align="center">
 
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitwandhare&show_icons=true&hide_rank=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitwandhare&layout=compact&hide=html,css&theme=transparent)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshitwandhare&show_icons=true&hide_rank=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitwandhare&layout=compact&hide=html,css&theme=transparent&hide_border=true" alt="Top languages" />
+
+<br/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitwandhare&theme=transparent&hide_border=true" alt="GitHub streak" />
 
 </div>
