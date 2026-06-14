@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/harshit-wandhare"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/harshit-wandhare-a088201aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:harshitwandhare45@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://job-sentinel.vercel.app"><img src="https://img.shields.io/badge/Live_Project-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Live project" /></a>
   <img src="https://komarev.com/ghpvc/?username=harshitwandhare&color=059669&style=for-the-badge&label=Profile+views" alt="Profile views" />
