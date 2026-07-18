@@ -4,7 +4,8 @@
   <b>Full-Stack & AI/ML Software Engineer</b> · 3+ years shipping production web &amp; mobile at scale
 </p>
 <p align="center">
-  🎓 Incoming <b>MS in Computer Science — UT Dallas</b> (Fall 2026, Intelligent Systems) · 📍 Richardson, TX
+  🎓 <b>MS in Computer Science — UT Dallas</b> (Fall 2026, Intelligent Systems) ·
+  🔬 <b>Generative AI Systems Research Assistant</b> — UTD ATC 3D Studio (LightSquad) · 📍 Richardson, TX
 </p>
 
 <p align="center">
@@ -27,6 +28,23 @@ to **local-first, open-source AI tooling**. Previously an SDE at **Reliance Jio*
 
 ## 🚀 Featured work
 
+<a href="https://github.com/harshitwandhare/atlas-ra">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitwandhare&repo=atlas-ra&theme=transparent&hide_border=true" alt="ATLAS" />
+</a>
+
+**[ATLAS](https://github.com/harshitwandhare/atlas-ra)** — a **multi-team AI agent system** built like
+infrastructure, not a demo: an orchestrator routes goals to specialist teams, a **Critic verifies every
+result** before it counts as done, **three memory tiers** (episodic SQLite ledger · semantic store ·
+versioned skill playbooks) make it compound over time, and destructive host actions are
+**human-approval-gated in code**, not prompts. Three interchangeable agent runtimes (Claude Agent SDK /
+LangGraph / **fully-local Ollama**) behind one typed protocol, a live WebSocket dashboard, an eval
+harness gating CI, and ready-to-load **ComfyUI / TouchDesigner / StreamDiffusion** workflows for
+generative-video work on a 10 GB VRAM budget.
+**[Live dashboard →](https://atlas-ra.vercel.app)**
+
+> Python · FastAPI · asyncio · Next.js 14 · WebSocket · SQLite · `mypy --strict` · 55 tests incl. full
+> e2e · behavioral evals in CI · Storybook · Vercel CD · MIT
+
 <a href="https://github.com/harshitwandhare/job-sentinel">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitwandhare&repo=job-sentinel&theme=transparent&hide_border=true" alt="Job Sentinel" />
 </a>
@@ -46,6 +64,12 @@ LLM-scripted short-form video with automated media processing and scheduled publ
 
 ## 💼 Experience
 
+**Generative AI Systems Research Assistant — UT Dallas, ATC 3D Studio (LightSquad)** · 2026–
+Real-time generative pipelines on constrained GPUs: **StreamDiffusion** deployment on Windows/CUDA
+(xformers + TensorRT acceleration, benchmarked), an **OSC-controlled TouchDesigner bridge** for live
+AI video, and **ComfyUI workflows** for LoRA training and **Wan 2.2** image-to-video inside a 10 GB
+VRAM budget.
+
 **Product Engineer — Yosemite Crew (DuneXploration UG, Germany)** · Remote · 2025–2026
 Single-handedly built the **entire cross-platform React Native app and the web PIMS frontend** for an
 open-source veterinary platform that grew to **2.1k+ GitHub stars, 78 forks, 3,100+ commits**. Integrated
@@ -61,10 +85,17 @@ teams** and cut average page load **~40%** via SSR and performance tuning.
 
 ## 🔬 AI / ML
 
+**Agentic systems** — [ATLAS](https://github.com/harshitwandhare/atlas-ra): multi-team orchestration
+with critic verification, three-tier memory, and approval-gated host execution; provider-agnostic across
+Claude Agent SDK, LangGraph, and fully-local Ollama.
+
+**Real-time diffusion** — StreamDiffusion on consumer CUDA hardware (xformers/TensorRT, benchmarked),
+TouchDesigner live-video bridge over OSC, ComfyUI LoRA-training and Wan 2.2 video workflows engineered
+for a 10 GB VRAM ceiling.
+
 **Parkify — Automated Number-Plate Recognition** (undergraduate research): an end-to-end YOLOv5 +
 custom-CNN pipeline reaching **95.45% mAP** detection and **89.66%** character-recognition accuracy, with
-an OpenCV preprocessing stack and a local CUDA training setup. Now extending into local-LLM and agentic
-systems via Job Sentinel and my MS coursework.
+an OpenCV preprocessing stack and a local CUDA training setup.
 
 ## 🧰 Tech
 
@@ -83,7 +114,8 @@ systems via Job Sentinel and my MS coursework.
 **Frontend/Mobile:** React · Next.js · Angular · React Native · Tailwind
 **Backend/Data:** Node/Express · FastAPI · Spring Boot · Supabase · Redis · MySQL · MongoDB
 **Cloud/DevOps:** AWS · Docker · CI/CD · SonarCloud · Playwright
-**AI/ML:** PyTorch · OpenCV · YOLOv5/CNNs · LLMs (local via Ollama + BYO-key) · RAG · agentic workflows
+**AI/ML:** PyTorch · OpenCV · YOLOv5/CNNs · agentic systems (Claude Agent SDK · LangGraph · Ollama) ·
+RAG · diffusion pipelines (StreamDiffusion · ComfyUI · Wan 2.2) · CUDA/TensorRT · quantization
 
 ## 🎓 Education
 
