@@ -46,7 +46,7 @@ generative-video work on a 10 GB VRAM budget.
 > e2e · behavioral evals in CI · Storybook · Vercel CD · MIT
 
 <a href="https://github.com/harshitwandhare/job-sentinel">
-  <img width="600" src="https://opengraph.githubassets.com/1/harshitwandhare/job-sentinel" alt="Job Sentinel" />
+  <img width="600" src="https://opengraph.githubassets.com/sentinel2026/harshitwandhare/job-sentinel" alt="Job Sentinel" />
 </a>
 
 **[Job Sentinel](https://github.com/harshitwandhare/job-sentinel)** — a local-first, open-source career
