@@ -29,7 +29,7 @@ to **local-first, open-source AI tooling**. Previously an SDE at **Reliance Jio*
 ## 🚀 Featured work
 
 <a href="https://github.com/harshitwandhare/atlas-ra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitwandhare&repo=atlas-ra&theme=transparent&hide_border=true" alt="ATLAS" />
+  <img width="600" src="https://opengraph.githubassets.com/1/harshitwandhare/atlas-ra" alt="ATLAS" />
 </a>
 
 **[ATLAS](https://github.com/harshitwandhare/atlas-ra)** — a **multi-team AI agent system** built like
@@ -46,7 +46,7 @@ generative-video work on a 10 GB VRAM budget.
 > e2e · behavioral evals in CI · Storybook · Vercel CD · MIT
 
 <a href="https://github.com/harshitwandhare/job-sentinel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitwandhare&repo=job-sentinel&theme=transparent&hide_border=true" alt="Job Sentinel" />
+  <img width="600" src="https://opengraph.githubassets.com/1/harshitwandhare/job-sentinel" alt="Job Sentinel" />
 </a>
 
 **[Job Sentinel](https://github.com/harshitwandhare/job-sentinel)** — a local-first, open-source career
@@ -126,11 +126,11 @@ RAG · diffusion pipelines (StreamDiffusion · ComfyUI · Wan 2.2) · CUDA/Tenso
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshitwandhare&show_icons=true&hide_rank=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitwandhare&layout=compact&hide=html,css&theme=transparent&hide_border=true" alt="Top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshitwandhare&theme=transparent" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshitwandhare&theme=transparent" alt="Top languages" />
 
 <br/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitwandhare&theme=transparent&hide_border=true" alt="GitHub streak" />
+<img height="165" src="https://streak-stats.demolab.com/?user=harshitwandhare&theme=transparent&hide_border=true" alt="GitHub streak" />
 
 </div>
