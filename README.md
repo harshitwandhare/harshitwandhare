@@ -29,7 +29,10 @@ to **local-first, open-source AI tooling**. Previously an SDE at **Reliance Jio*
 ## 🚀 Featured work
 
 <a href="https://github.com/harshitwandhare/atlas-ra">
-  <img width="600" src="https://opengraph.githubassets.com/1/harshitwandhare/atlas-ra" alt="ATLAS" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitwandhare/atlas-ra/main/assets/logo-dark.svg" />
+    <img height="104" src="https://raw.githubusercontent.com/harshitwandhare/atlas-ra/main/assets/logo-light.svg" alt="ATLAS logo" />
+  </picture>
 </a>
 
 **[ATLAS](https://github.com/harshitwandhare/atlas-ra)** — a **multi-team AI agent system** built like
@@ -46,7 +49,7 @@ generative-video work on a 10 GB VRAM budget.
 > e2e · behavioral evals in CI · Storybook · Vercel CD · MIT
 
 <a href="https://github.com/harshitwandhare/job-sentinel">
-  <img width="600" src="https://opengraph.githubassets.com/sentinel2026/harshitwandhare/job-sentinel" alt="Job Sentinel" />
+  <img height="104" src="https://raw.githubusercontent.com/harshitwandhare/job-sentinel/main/.github/assets/sentinel.png" alt="Job Sentinel logo" />
 </a>
 
 **[Job Sentinel](https://github.com/harshitwandhare/job-sentinel)** — a local-first, open-source career
