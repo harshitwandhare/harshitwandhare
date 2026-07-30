@@ -67,12 +67,6 @@ LLM-scripted short-form video with automated media processing and scheduled publ
 
 ## 💼 Experience
 
-**Generative AI Systems Research Assistant — UT Dallas, ATC 3D Studio (LightSquad)** · 2026–
-Real-time generative pipelines on constrained GPUs: **StreamDiffusion** deployment on Windows/CUDA
-(xformers + TensorRT acceleration, benchmarked), an **OSC-controlled TouchDesigner bridge** for live
-AI video, and **ComfyUI workflows** for LoRA training and **Wan 2.2** image-to-video inside a 10 GB
-VRAM budget.
-
 **Product Engineer — Yosemite Crew (DuneXploration UG, Germany)** · Remote · 2025–2026
 Single-handedly built the **entire cross-platform React Native app and the web PIMS frontend** for an
 open-source veterinary platform that grew to **2.1k+ GitHub stars, 78 forks, 3,100+ commits**. Integrated
