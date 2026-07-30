@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   🎓 <b>MS in Computer Science — UT Dallas</b> (Fall 2026, Intelligent Systems) ·
-  🔬 <b>Generative AI Systems Research Assistant</b> — UTD ATC 3D Studio (LightSquad) · 📍 Richardson, TX
+   📍 Richardson, TX
 </p>
 
 <p align="center">
