@@ -1,133 +1,110 @@
 <h1 align="center">Harshit Wandhare</h1>
 
 <p align="center">
-  <b>Full-Stack & AI/ML Software Engineer</b> · 3+ years shipping production web &amp; mobile at scale
+  <b>Software Engineer</b> · production systems end to end — backend, infrastructure, mobile
 </p>
 <p align="center">
-  🎓 <b>MS in Computer Science — UT Dallas</b> (Fall 2026, Intelligent Systems) ·
-   📍 Richardson, TX
+  🎓 <b>M.S. Computer Science — UT Dallas</b> (Intelligent Systems) · 📍 Richardson, TX
 </p>
 
 <p align="center">
+  <a href="https://harshitwandhare.com"><img src="https://img.shields.io/badge/Portfolio-harshitwandhare.com-A3480A?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/harshit-wandhare-a088201aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:harshitwandhare45@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://job-sentinel.vercel.app"><img src="https://img.shields.io/badge/Live_Project-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Live project" /></a>
-  <img src="https://komarev.com/ghpvc/?username=harshitwandhare&color=059669&style=for-the-badge&label=Profile+views" alt="Profile views" />
+  <a href="mailto:dal314006@utdallas.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  🟢 <b>Open to SWE &amp; AI/ML internships and new-grad roles</b> — I love building reliable systems end to end.
+  🟢 <b>Open to Summer 2027 SWE and AI/ML internships</b>
 </p>
 
 ---
 
-I build production-grade software from the ground up — from cross-platform apps used by **100K+ people**
-to **local-first, open-source AI tooling**. Previously an SDE at **Reliance Jio** and Product Engineer at
-**Yosemite Crew**; now focused on **AI/ML systems** and engineering open source to a professional bar
-(typed end-to-end, tested, CI-gated, documented).
-
-## 🚀 Featured work
-
-<a href="https://github.com/harshitwandhare/atlas-ra">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitwandhare/atlas-ra/main/assets/logo-dark.svg" />
-    <img height="104" src="https://raw.githubusercontent.com/harshitwandhare/atlas-ra/main/assets/logo-light.svg" alt="ATLAS logo" />
-  </picture>
-</a>
-
-**[ATLAS](https://github.com/harshitwandhare/atlas-ra)** — a **multi-team AI agent system** built like
-infrastructure, not a demo: an orchestrator routes goals to specialist teams, a **Critic verifies every
-result** before it counts as done, **three memory tiers** (episodic SQLite ledger · semantic store ·
-versioned skill playbooks) make it compound over time, and destructive host actions are
-**human-approval-gated in code**, not prompts. Three interchangeable agent runtimes (Claude Agent SDK /
-LangGraph / **fully-local Ollama**) behind one typed protocol, a live WebSocket dashboard, an eval
-harness gating CI, and ready-to-load **ComfyUI / TouchDesigner / StreamDiffusion** workflows for
-generative-video work on a 10 GB VRAM budget.
-**[Live dashboard →](https://atlas-ra.vercel.app)**
-
-> Python · FastAPI · asyncio · Next.js 14 · WebSocket · SQLite · `mypy --strict` · 55 tests incl. full
-> e2e · behavioral evals in CI · Storybook · Vercel CD · MIT
-
-<a href="https://github.com/harshitwandhare/job-sentinel">
-  <img height="104" src="https://raw.githubusercontent.com/harshitwandhare/job-sentinel/main/.github/assets/sentinel.png" alt="Job Sentinel logo" />
-</a>
-
-**[Job Sentinel](https://github.com/harshitwandhare/job-sentinel)** — a local-first, open-source career
-platform: searches jobs across multiple sources, scores how well your profile matches a role with a
-**local (or bring-your-own-key) LLM**, tracks your whole application pipeline, and generates **ATS-tuned
-résumés &amp; cover letters** — all on your own machine, nothing leaves it. Ships with a **clip-to-track
-browser extension**, a Next.js web UI, a Typer CLI, and a FastAPI backend.
-**[Live demo →](https://job-sentinel.vercel.app)** · [docs](https://harshitwandhare.github.io/job-sentinel/)
-
-> Python · FastAPI · Playwright · Next.js/React · SQLite · `mypy --strict` · ~450 tests ·
-> CI gates: CodeQL · OpenSSF Scorecard · gitleaks · pip-audit · license compliance · reproducible `uv.lock` builds · MIT
-
-**[Kalki](https://github.com/harshitwandhare/kalki)** — an autonomous AI content-generation platform:
-LLM-scripted short-form video with automated media processing and scheduled publishing.
+I build production systems end to end — and have shipped them alone. Three years across
+enterprise platforms serving **100K+ monthly users** at Reliance Jio, then the **entire
+engineering function** at a three-person company in Germany: architecture, web, mobile,
+integrations, auth, cloud, CI and release.
 
 ## 💼 Experience
 
 **Product Engineer — Yosemite Crew (DuneXploration UG, Germany)** · Remote · 2025–2026
-Single-handedly built the **entire cross-platform React Native app and the web PIMS frontend** for an
-open-source veterinary platform that grew to **2.1k+ GitHub stars, 78 forks, 3,100+ commits**. Integrated
-IDEXX Labs &amp; Merck Veterinary Manual APIs; ran the full AWS stack (Amplify, Cognito, S3, CloudFront)
-plus Supabase/Redis; shipped to the App Store &amp; Play Store; authored 14 GitHub Actions workflows
-(CodeQL, Gitleaks, SonarCloud, Chromatic, Playwright E2E).
-*(Full-time under the company account [@harshit-yc](https://github.com/harshit-yc).)*
+Sole engineer-owner of an open-source veterinary practice-management system at a three-person
+company. **1,200+ commits — more than any other contributor** on a project that has grown past
+**2,000 GitHub stars**. Designed HL7/FHIR-aligned clinical data models; integrated IDEXX
+Laboratories and Merck Veterinary Manual APIs; built the auth stack on AWS Cognito and Amplify
+Gen 2 (Lambda OTP triggers, WebAuthn passkeys, TOTP MFA, OAuth) and led its migration to
+SuperTokens; owned Lambda/S3/CloudFront/Redis and the GitHub Actions estate across three
+codebases in a Turborepo monorepo. Shipped the React Native app to **both stores**, ran customer
+discovery, and hired and onboarded the engineer who followed.
 
 **Software Development Engineer I — Reliance Jio Platforms** · 2023–2025
-Built and maintained high-traffic web &amp; mobile apps serving **100K+ monthly active users** (React,
-Next.js, Angular, React Native). Shipped a shared React + TypeScript component library adopted by **3+
-teams** and cut average page load **~40%** via SSR and performance tuning.
+**Rated A\***, the firm's highest annual performance category. Ran daily scrum for a
+**30-engineer** program spanning 10+ modules and solo-owned two of them end to end, across
+products serving **100K+ monthly active users**. Designed the SDK layer for secure
+WebView-to-native message passing between React Native shells and embedded Angular/Next.js
+apps — adopted as the standard integration layer. Built an internal CMS on Next.js and Strapi;
+cut average page load **~40%** via an Angular 17 SSR migration on EC2.
 
-## 🔬 AI / ML
+## 🚀 Featured work
 
-**Agentic systems** — [ATLAS](https://github.com/harshitwandhare/atlas-ra): multi-team orchestration
-with critic verification, three-tier memory, and approval-gated host execution; provider-agnostic across
-Claude Agent SDK, LangGraph, and fully-local Ollama.
+**[ATLAS](https://github.com/harshitwandhare/atlas-ra)** — a multi-team AI agent system built
+like infrastructure, not a demo. An orchestrator routes goals to specialist teams and a
+**Critic verifies every result** before it counts as done. **Three memory tiers** (episodic
+SQLite ledger · semantic store · versioned skill playbooks) let it compound across runs, and
+destructive host actions are **approval-gated in code, not prompts**. Three interchangeable
+runtimes — Claude Agent SDK, LangGraph, fully-local Ollama — behind one typed protocol.
+**[Live dashboard →](https://atlas-ra.vercel.app)**
 
-**Real-time diffusion** — StreamDiffusion on consumer CUDA hardware (xformers/TensorRT, benchmarked),
-TouchDesigner live-video bridge over OSC, ComfyUI LoRA-training and Wan 2.2 video workflows engineered
-for a 10 GB VRAM ceiling.
+> Python · FastAPI · asyncio · Next.js · WebSocket · SQLite · `mypy --strict` · 59 tests ·
+> behavioural evals gating CI · MIT
 
-**Parkify — Automated Number-Plate Recognition** (undergraduate research): an end-to-end YOLOv5 +
-custom-CNN pipeline reaching **95.45% mAP** detection and **89.66%** character-recognition accuracy, with
-an OpenCV preprocessing stack and a local CUDA training setup.
+**[Job Sentinel](https://github.com/harshitwandhare/job-sentinel)** — a local-first,
+open-source career platform: aggregates postings across sources, scores role fit with a local
+or bring-your-own-key LLM, tracks the whole application pipeline, and generates ATS-tuned
+résumés — all on your own machine, nothing leaves it. Ships a clip-to-track browser extension,
+a Typer CLI, a Next.js UI and a FastAPI backend.
+**[Live demo →](https://job-sentinel.vercel.app)** · [docs](https://harshitwandhare.github.io/job-sentinel/)
+
+> Python · FastAPI · Playwright · Next.js · SQLite · `mypy --strict` · ~450 tests ·
+> CI gates: CodeQL · OpenSSF Scorecard · gitleaks · pip-audit · license compliance · MIT
+
+**[Portfolio](https://github.com/harshitwandhare/portfolio)** — this site's source.
+The centrepiece is a *tipkyanchi rangoli* — a dot lattice with a single unbroken line drawn
+around every dot — solved live in the browser, then drawn over a year of real commit history.
+**[harshitwandhare.com →](https://harshitwandhare.com)**
+
+> Next.js · TypeScript strict · Playwright × 4 browsers · axe · Lighthouse 100/100/100/100 · MIT
+
+## 🔬 Research
+
+**Integrating YOLOv5 and CNN for Number Plate Recognition** — first author, unpublished
+manuscript. YOLOv5 detector at **95.45% mAP** (88.7% precision, 96.4% recall) and a custom CNN
+over 36 character classes at **89.66%** accuracy, with an OpenCV preprocessing stack
+(Hough deskew, contour segmentation) and a local CUDA training environment.
+
+**A Comprehensive Survey of Methodologies in Social Media Analytics for Disaster Management** —
+first author, unpublished manuscript.
 
 ## 🧰 Tech
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+**Languages:** Python · TypeScript · JavaScript · Java · SQL · Bash
+**AI/ML:** PyTorch · OpenCV · YOLOv5 & CNNs · LLM agent systems (Claude Agent SDK · LangGraph · Ollama) · RAG · CUDA
+**Backend & Data:** FastAPI · Node/Express · Spring Boot · REST · WebSockets · Redis · PostgreSQL · MongoDB · MySQL · SQLite
+**Cloud & Infrastructure:** AWS (Cognito · Lambda · S3 · CloudFront · Amplify) · Docker · GitHub Actions · Linux · Turborepo
+**Testing & Quality:** pytest · Jest · Playwright · mypy `--strict` · CodeQL · Gitleaks · SonarCloud
+**Frontend & Mobile:** React · Next.js · Angular · React Native · Redux · Tailwind
 
-**Languages:** TypeScript · Python · JavaScript · Java
-**Frontend/Mobile:** React · Next.js · Angular · React Native · Tailwind
-**Backend/Data:** Node/Express · FastAPI · Spring Boot · Supabase · Redis · MySQL · MongoDB
-**Cloud/DevOps:** AWS · Docker · CI/CD · SonarCloud · Playwright
-**AI/ML:** PyTorch · OpenCV · YOLOv5/CNNs · agentic systems (Claude Agent SDK · LangGraph · Ollama) ·
-RAG · diffusion pipelines (StreamDiffusion · ComfyUI · Wan 2.2) · CUDA/TensorRT · quantization
+*Currently learning:* Rust
 
 ## 🎓 Education
 
-- **M.S. Computer Science**, The University of Texas at Dallas — *Intelligent Systems*, Fall 2026
+- **M.S. Computer Science**, The University of Texas at Dallas — *Intelligent Systems* ·
+  Jonsson School Dean's Graduate Scholarship
 - **B.E. Computer Engineering**, University of Mumbai (Vidyalankar Institute) — **CGPA 9.53/10**
 
 ---
 
-<div align="center">
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshitwandhare&theme=transparent" alt="GitHub stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshitwandhare&theme=transparent" alt="Top languages" />
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com/?user=harshitwandhare&theme=transparent&hide_border=true" alt="GitHub streak" />
-
-</div>
+<p align="center">
+  <sub>The stat cards that used to sit here were served by a third party that started
+  returning 500s. Rather than swap in another one that will break next month, the work is
+  linked above — it speaks for itself.</sub>
+</p>
