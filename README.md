@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://harshitwandhare.com"><img src="https://img.shields.io/badge/Portfolio-harshitwandhare.com-A3480A?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/harshit-wandhare-a088201aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:dal314006@utdallas.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:Harshit.Wandhare@utdallas.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
