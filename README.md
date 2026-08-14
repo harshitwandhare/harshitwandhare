@@ -29,7 +29,7 @@ integrations, auth, cloud, CI and release.
 **Product Engineer — Yosemite Crew (DuneXploration UG, Germany)** · Remote · 2025–2026
 Sole engineer-owner of [**YosemiteCrew/Yosemite-Crew**](https://github.com/YosemiteCrew/Yosemite-Crew) —
 an open-source veterinary practice-management system — at a three-person company.
-[**1,200+ commits — more than any other contributor**](https://github.com/YosemiteCrew/Yosemite-Crew/graphs/contributors)
+[**1,200+ commits**](https://github.com/search?q=repo%3AYosemiteCrew%2FYosemite-Crew+author-name%3A%22Harshit+Wandhare%22&type=commits)
 on a project that has grown past **2,000 GitHub stars**. Designed HL7/FHIR-aligned clinical data models; integrated IDEXX
 Laboratories and Merck Veterinary Manual APIs; built the auth stack on AWS Cognito and Amplify
 Gen 2 (Lambda OTP triggers, WebAuthn passkeys, TOTP MFA, OAuth) and led its migration to
