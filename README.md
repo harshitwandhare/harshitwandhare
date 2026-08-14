@@ -27,9 +27,10 @@ integrations, auth, cloud, CI and release.
 ## 💼 Experience
 
 **Product Engineer — Yosemite Crew (DuneXploration UG, Germany)** · Remote · 2025–2026
-Sole engineer-owner of an open-source veterinary practice-management system at a three-person
-company. **1,200+ commits — more than any other contributor** on a project that has grown past
-**2,000 GitHub stars**. Designed HL7/FHIR-aligned clinical data models; integrated IDEXX
+Sole engineer-owner of [**YosemiteCrew/Yosemite-Crew**](https://github.com/YosemiteCrew/Yosemite-Crew) —
+an open-source veterinary practice-management system — at a three-person company.
+[**1,200+ commits — more than any other contributor**](https://github.com/YosemiteCrew/Yosemite-Crew/graphs/contributors)
+on a project that has grown past **2,000 GitHub stars**. Designed HL7/FHIR-aligned clinical data models; integrated IDEXX
 Laboratories and Merck Veterinary Manual APIs; built the auth stack on AWS Cognito and Amplify
 Gen 2 (Lambda OTP triggers, WebAuthn passkeys, TOTP MFA, OAuth) and led its migration to
 SuperTokens; owned Lambda/S3/CloudFront/Redis and the GitHub Actions estate across three
@@ -49,7 +50,8 @@ cut average page load **~40%** via an Angular 17 SSR migration on EC2.
 **[ATLAS](https://github.com/harshitwandhare/atlas-ra)** — a multi-team AI agent system built
 like infrastructure, not a demo. An orchestrator routes goals to specialist teams and a
 **Critic verifies every result** before it counts as done. **Three memory tiers** (episodic
-SQLite ledger · semantic store · versioned skill playbooks) let it compound across runs, and
+SQLite ledger · embedding-backed semantic store queried by vector similarity · versioned skill
+playbooks) let it compound across runs, and
 destructive host actions are **approval-gated in code, not prompts**. Three interchangeable
 runtimes — Claude Agent SDK, LangGraph, fully-local Ollama — behind one typed protocol.
 **[Live dashboard →](https://atlas-ra.vercel.app)**
@@ -64,7 +66,7 @@ résumés — all on your own machine, nothing leaves it. Ships a clip-to-track 
 a Typer CLI, a Next.js UI and a FastAPI backend.
 **[Live demo →](https://job-sentinel.vercel.app)** · [docs](https://harshitwandhare.github.io/job-sentinel/)
 
-> Python · FastAPI · Playwright · Next.js · SQLite · `mypy --strict` · ~450 tests ·
+> Python · FastAPI · Playwright · Next.js · SQLite · `mypy --strict` · 500+ tests ·
 > CI gates: CodeQL · OpenSSF Scorecard · gitleaks · pip-audit · license compliance · MIT
 
 **[Portfolio](https://github.com/harshitwandhare/portfolio)** — this site's source.
@@ -87,7 +89,7 @@ first author, unpublished manuscript.
 ## 🧰 Tech
 
 **Languages:** Python · TypeScript · JavaScript · Java · SQL · Bash
-**AI/ML:** PyTorch · OpenCV · YOLOv5 & CNNs · LLM agent systems (Claude Agent SDK · LangGraph · Ollama) · RAG · CUDA
+**AI/ML:** PyTorch · OpenCV · YOLOv5 & CNNs · LLM agent systems (Claude Agent SDK · LangGraph · Ollama) · RAG · embeddings & vector search · CUDA
 **Backend & Data:** FastAPI · Node/Express · Spring Boot · REST · WebSockets · Redis · PostgreSQL · MongoDB · MySQL · SQLite
 **Cloud & Infrastructure:** AWS (Cognito · Lambda · S3 · CloudFront · Amplify) · Docker · GitHub Actions · Linux · Turborepo
 **Testing & Quality:** pytest · Jest · Playwright · mypy `--strict` · CodeQL · Gitleaks · SonarCloud
