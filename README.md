@@ -30,7 +30,7 @@ integrations, auth, cloud, CI and release.
 Sole engineer-owner of [**YosemiteCrew/Yosemite-Crew**](https://github.com/YosemiteCrew/Yosemite-Crew) —
 an open-source veterinary practice-management system — at a three-person company.
 [**1,300+ commits — more than any other contributor, and close to a third of the
-repository**](https://github.com/YosemiteCrew/Yosemite-Crew/commits?author=harshitwandhare)
+repository**](https://github.com/YosemiteCrew/Yosemite-Crew/graphs/contributors)
 on a project that has grown past **2,000 GitHub stars**. Designed HL7/FHIR-aligned clinical data models; integrated IDEXX
 Laboratories and Merck Veterinary Manual APIs; built the auth stack on AWS Cognito and Amplify
 Gen 2 (Lambda OTP triggers, WebAuthn passkeys, TOTP MFA, OAuth) and led its migration to
