@@ -1,7 +1,7 @@
 <h1 align="center">Harshit Wandhare</h1>
 
 <p align="center">
-  Software engineer. Three years shipping production systems: backend, cloud, web, mobile.<br />
+  Software and product engineer. Three years shipping production systems: backend, cloud, web, mobile.<br />
   M.S. Computer Science, UT Dallas (Intelligent Systems), expected May 2028.
 </p>
 
@@ -12,11 +12,13 @@
 </p>
 
 <p align="center">
-  <b>Open to Summer 2027 SWE and AI/ML internships</b> · Richardson, TX · open to relocation
+  <b>Open to Summer 2027 software, product and AI/ML engineering internships</b><br />
+  Richardson, TX · open to relocation · drawn to forward-deployed engineering, where the
+  product work and the customer are the same conversation
 </p>
 
 <p align="center">
-  <a href="https://github.com/YosemiteCrew/Yosemite-Crew/commits?author=harshitwandhare"><img src="https://img.shields.io/badge/1%2C394%20commits-%231%20contributor%20on%20a%2029%E2%80%91person%20repo-1f6feb?style=flat-square" alt="1,394 commits, #1 contributor" /></a>
+  <a href="https://github.com/YosemiteCrew/Yosemite-Crew/graphs/contributors?all=1"><img src="https://img.shields.io/badge/1%2C394%20commits-%231%20contributor%20on%20a%2028%E2%80%91person%20repo-1f6feb?style=flat-square" alt="1,394 commits, #1 contributor" /></a>
   <a href="https://github.com/YosemiteCrew/Yosemite-Crew"><img src="https://img.shields.io/github/stars/YosemiteCrew/Yosemite-Crew?style=flat-square&label=stars%20on%20that%20project&color=8957e5" alt="Stars on Yosemite Crew" /></a>
   <img src="https://img.shields.io/badge/100K%2B-monthly%20users%20served%20at%20Jio-238636?style=flat-square" alt="100K+ monthly users" />
   <img src="https://img.shields.io/badge/A%2A-top%20annual%20rating%20at%20Jio-bb8009?style=flat-square" alt="A* rating" />
@@ -24,13 +26,16 @@
 
 ---
 
-I like owning a system from the schema to the store listing. At Reliance Jio I ran daily scrum
-for a 30-engineer program and solo-owned two of its modules, on products serving 100K+ monthly
-users. Then I was the engineer at a three-person company in Germany, where I built the platform,
-shipped the mobile app, wrote the specs, and hired and onboarded the engineer who came after me.
+I like owning a system from the schema to the store listing, and I like being close enough to the
+user to know which half of it matters. At Reliance Jio I ran daily scrum for a 30-engineer program
+and solo-owned two of its modules, on products serving 100K+ monthly users. Then I was the engineer
+at a three-person company in Germany, where I built the platform, shipped the mobile app to both
+stores, ran the customer discovery calls, wrote the specs, and hired and onboarded the engineer who
+came after me.
 
-Right now I am deep in agent systems and developer tooling, and writing a lot of Rust badly on
-purpose.
+That mix is why forward-deployed and product engineering interest me: sitting with the people using
+the thing, then going and building it. Right now I am deep in agent systems and developer tooling,
+and writing a lot of Rust badly on purpose.
 
 ## Experience
 
@@ -39,7 +44,7 @@ purpose.
 Owned engineering for [**YosemiteCrew/Yosemite-Crew**](https://github.com/YosemiteCrew/Yosemite-Crew),
 an open-source veterinary practice-management system, at a three-person company. Wrote
 [**1,394 commits, more than any other contributor on the
-project**](https://github.com/YosemiteCrew/Yosemite-Crew/commits?author=harshitwandhare), which has
+project**](https://github.com/YosemiteCrew/Yosemite-Crew/graphs/contributors?all=1), which has
 since passed 2,000 GitHub stars. Designed HL7/FHIR-aligned clinical data models. Integrated IDEXX
 Laboratories and Merck Veterinary Manual APIs. Built the auth stack on AWS Cognito and Amplify Gen 2
 (Lambda OTP triggers, WebAuthn passkeys, TOTP MFA, OAuth) and led its migration to SuperTokens.
