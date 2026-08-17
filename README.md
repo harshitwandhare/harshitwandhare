@@ -93,13 +93,13 @@ live in the browser and then drawn over a year of real commit history.
 
 ## Research
 
-**Integrating YOLOv5 and CNN for Number Plate Recognition**, first author. A YOLOv5 detector at
-**95.45% mAP** (88.7% precision, 96.4% recall) and a custom CNN over 36 character classes at
-**89.66%** accuracy, with an OpenCV preprocessing stack (Hough deskew, contour segmentation) trained
-on a local CUDA setup.
+**[Integrating YOLOv5 and CNN for Number Plate Recognition](https://harshitwandhare.com/papers/number-plate-recognition.pdf)**,
+first author. A YOLOv5 detector at **95.45% mAP** (88.7% precision, 96.4% recall) and a custom CNN
+over 36 character classes at **89.66%** accuracy, with an OpenCV preprocessing stack (Hough deskew,
+contour segmentation) trained on a local CUDA setup.
 
-**A Comprehensive Survey of Methodologies in Social Media Analytics for Disaster Management**,
-first author.
+**[A Comprehensive Survey of Methodologies in Social Media Analytics for Disaster
+Management](https://harshitwandhare.com/papers/social-media-disaster-management.pdf)**, first author.
 
 ## Tech
 
