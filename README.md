@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YosemiteCrew/Yosemite-Crew/graphs/contributors?all=1"><img src="https://img.shields.io/badge/1%2C394%20commits-%231%20contributor%20on%20a%2028%E2%80%91person%20repo-1f6feb?style=flat-square" alt="1,394 commits, #1 contributor" /></a>
+  <a href="https://github.com/YosemiteCrew/Yosemite-Crew/commits/main?author=harshit%40yosemitecrew.com"><img src="https://img.shields.io/badge/1%2C394%20commits-more%20than%20anyone%20else%20on%20the%20repo-1f6feb?style=flat-square" alt="1,394 commits on Yosemite Crew, more than any other contributor" /></a>
   <a href="https://github.com/YosemiteCrew/Yosemite-Crew"><img src="https://img.shields.io/github/stars/YosemiteCrew/Yosemite-Crew?style=flat-square&label=stars%20on%20that%20project&color=8957e5" alt="Stars on Yosemite Crew" /></a>
   <img src="https://img.shields.io/badge/100K%2B-monthly%20users%20served%20at%20Jio-238636?style=flat-square" alt="100K+ monthly users" />
   <img src="https://img.shields.io/badge/A%2A-top%20annual%20rating%20at%20Jio-bb8009?style=flat-square" alt="A* rating" />
@@ -44,7 +44,7 @@ and writing a lot of Rust badly on purpose.
 Owned engineering for [**YosemiteCrew/Yosemite-Crew**](https://github.com/YosemiteCrew/Yosemite-Crew),
 an open-source veterinary practice-management system, at a three-person company. Wrote
 [**1,394 commits, more than any other contributor on the
-project**](https://github.com/YosemiteCrew/Yosemite-Crew/graphs/contributors?all=1), which has
+project**](https://github.com/YosemiteCrew/Yosemite-Crew/commits/main?author=harshit%40yosemitecrew.com), which has
 since passed 2,000 GitHub stars. Designed HL7/FHIR-aligned clinical data models. Integrated IDEXX
 Laboratories and Merck Veterinary Manual APIs. Built the auth stack on AWS Cognito and Amplify Gen 2
 (Lambda OTP triggers, WebAuthn passkeys, TOTP MFA, OAuth) and led its migration to SuperTokens.
