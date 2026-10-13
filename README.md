@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://harshitwandhare.com"><img src="https://img.shields.io/badge/Portfolio-harshitwandhare.com-A3480A?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/harshit-wandhare-a088201aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/harshit-wandhare/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:Harshit.Wandhare@utdallas.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -19,6 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/YosemiteCrew/Yosemite-Crew/commits/main?author=harshit%40yosemitecrew.com"><img src="https://img.shields.io/badge/1%2C394%20commits-more%20than%20anyone%20else%20on%20the%20repo-1f6feb?style=flat-square" alt="1,394 commits on Yosemite Crew, more than any other contributor" /></a>
+  <a href="#open-source-contributions"><img src="https://img.shields.io/badge/27%20pull%20requests-merged%20into%20Google%2C%20AWS%2C%20NVIDIA%20%26%20Anthropic%20repos-8957e5?style=flat-square" alt="27 pull requests merged into upstream repositories" /></a>
   <a href="https://github.com/YosemiteCrew/Yosemite-Crew"><img src="https://img.shields.io/github/stars/YosemiteCrew/Yosemite-Crew?style=flat-square&label=stars%20on%20that%20project&color=8957e5" alt="Stars on Yosemite Crew" /></a>
   <img src="https://img.shields.io/badge/100K%2B-monthly%20users%20served%20at%20Jio-238636?style=flat-square" alt="100K+ monthly users" />
   <img src="https://img.shields.io/badge/A%2A-top%20annual%20rating%20at%20Jio-bb8009?style=flat-square" alt="A* rating" />
@@ -39,6 +40,15 @@ and writing a lot of Rust badly on purpose.
 
 ## Experience
 
+**Student Assistant, Identity and Access Management, UT Dallas Office of Information Technology** · Richardson · 2026 to present
+
+Identity and access management for university-wide systems, on Python and Django deployed on AWS.
+Design and maintain **RBAC role hierarchies** and primary-permission mappings governing access
+across enterprise systems, implement **row-level permissions and database-level access controls**
+enforcing least privilege, and run recurring audits for over-provisioned accounts and stale role
+assignments. Build reusable reference components for the internal Django platform to standardise
+provisioning workflows, and maintain the legacy Perl automation behind identity provisioning.
+
 **Product Engineer, Yosemite Crew (DuneXploration UG, Germany)** · Remote · 2025 to 2026
 
 Owned engineering for [**YosemiteCrew/Yosemite-Crew**](https://github.com/YosemiteCrew/Yosemite-Crew),
@@ -46,11 +56,13 @@ an open-source veterinary practice-management system, at a three-person company.
 [**1,394 commits, more than any other contributor on the
 project**](https://github.com/YosemiteCrew/Yosemite-Crew/commits/main?author=harshit%40yosemitecrew.com), which has
 since passed 2,000 GitHub stars. Designed HL7/FHIR-aligned clinical data models. Integrated IDEXX
-Laboratories and Merck Veterinary Manual APIs. Built the auth stack on AWS Cognito and Amplify Gen 2
-(Lambda OTP triggers, WebAuthn passkeys, TOTP MFA, OAuth) and led its migration to SuperTokens.
-Owned Lambda, S3, CloudFront, Redis and the GitHub Actions estate across three codebases in a
-Turborepo monorepo. Shipped the React Native app to both stores, ran customer discovery calls, and
-onboarded the next engineer against specs I wrote.
+Laboratories and Merck Veterinary Manual APIs. Built sign-in on AWS Cognito and Amplify Gen 2,
+covering OAuth across several identity providers and email with one-time codes, and wrote the
+integration docs the backend engineer worked from. Owned Lambda, S3, CloudFront, Redis and the
+GitHub Actions estate across three codebases in a Turborepo monorepo. Shipped the React Native app
+to both stores. Ran requirements-gathering interviews with practising veterinarians, vet nurses and
+practice owners, mapping their workflows and the systems they already used, and turned the findings
+into the roadmap. Hired and onboarded the next engineer against specs I wrote.
 
 **Software Development Engineer I, Reliance Jio Platforms** · Navi Mumbai · 2023 to 2025
 
@@ -60,6 +72,34 @@ serving **100K+ monthly active users**. Designed the SDK layer for secure WebVie
 passing between React Native shells and embedded Angular and Next.js apps, which became the standard
 integration layer across products. Built an internal CMS on Next.js and Strapi. Cut average page
 load **~40%** with an Angular 17 SSR migration on EC2.
+
+## Open source contributions
+
+**27 pull requests merged into other companies' repositories** since August 2026, **22 of them
+into agent orchestration frameworks**. Every one is public and checkable.
+
+| Repository | Owner | Language | Merged |
+| --- | --- | --- | --- |
+| [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | AWS | Python | **15** |
+| [google/adk-go](https://github.com/google/adk-go/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | Google | Go | **5** |
+| [anthropics/buffa](https://github.com/anthropics/buffa/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | Anthropic | Rust | **4** |
+| [a2aproject/a2a-js](https://github.com/a2aproject/a2a-js/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | Agent2Agent / Linux Foundation | TypeScript | **2** |
+| [NVIDIA/cosmos-framework](https://github.com/NVIDIA/cosmos-framework/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | NVIDIA | Python | **1** |
+
+The ones I would point at first, because they say what kind of engineer I am more than a count does:
+
+- **`fix(api): make the same-origin check scheme-aware`** and **`fix(api): make _origin_authority
+  total against a malformed Origin`** (awslabs). Two security fixes to an origin check that was
+  neither scheme-aware nor safe against a malformed header.
+- **`test(remoteagent): name the awaited event instead of panicking on a closed channel`**
+  (adk-go). A concurrency bug that failed by panicking rather than by saying what it was waiting on.
+- **`fix(llminternal): classify a dropped live connection by type, not by error string`** (adk-go).
+- **`fix(mcp): enforce a profile's tools allowlist for assign and handoff`** (awslabs). A tool
+  allowlist that was not being checked on two code paths.
+
+The method is the same every time: reproduce it first, write the test that fails before the fix,
+state the broken invariant in one sentence, and run the project's own CI gates locally before
+opening the pull request.
 
 ## Featured work
 
@@ -103,14 +143,13 @@ Management](https://harshitwandhare.com/papers/social-media-disaster-management.
 
 ## Tech
 
-**Languages:** Python · TypeScript · JavaScript · Java · SQL · Bash
+**Languages:** Python · TypeScript · JavaScript · Java · Go · Rust · C++ · SQL · Bash
 **AI/ML:** PyTorch · OpenCV · YOLOv5 and CNNs · LLM agent systems (Claude Agent SDK · LangGraph · Ollama) · RAG · embeddings and vector search · CUDA
-**Backend and data:** FastAPI · Node/Express · Spring Boot · REST · WebSockets · Redis · PostgreSQL · MongoDB · MySQL · SQLite
+**Backend and data:** FastAPI · Django · Node/Express · Spring Boot · REST · GraphQL · WebSockets · Redis · PostgreSQL · MongoDB · MySQL · SQLite
 **Cloud and infrastructure:** AWS (Cognito · Lambda · S3 · CloudFront · Amplify) · Docker · GitHub Actions · Linux · Turborepo
 **Testing and quality:** pytest · Jest · Playwright · mypy `--strict` · CodeQL · Gitleaks · SonarCloud
 **Frontend and mobile:** React · Next.js · Angular · React Native · Redux · Tailwind
 
-*Learning:* Rust
 
 ## Education
 
