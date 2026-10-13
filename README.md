@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/YosemiteCrew/Yosemite-Crew/commits/main?author=harshit%40yosemitecrew.com"><img src="https://img.shields.io/badge/1%2C394%20commits-more%20than%20anyone%20else%20on%20the%20repo-1f6feb?style=flat-square" alt="1,394 commits on Yosemite Crew, more than any other contributor" /></a>
-  <a href="#open-source-contributions"><img src="https://img.shields.io/badge/27%20pull%20requests-merged%20into%20Google%2C%20AWS%2C%20NVIDIA%20%26%20Anthropic%20repos-8957e5?style=flat-square" alt="27 pull requests merged into upstream repositories" /></a>
+  <a href="#open-source-contributions"><img src="https://img.shields.io/badge/28%20pull%20requests-merged%20into%20Google%2C%20AWS%2C%20NVIDIA%20%26%20Anthropic%20repos-8957e5?style=flat-square" alt="28 pull requests merged into upstream repositories" /></a>
   <a href="https://github.com/YosemiteCrew/Yosemite-Crew"><img src="https://img.shields.io/github/stars/YosemiteCrew/Yosemite-Crew?style=flat-square&label=stars%20on%20that%20project&color=8957e5" alt="Stars on Yosemite Crew" /></a>
   <img src="https://img.shields.io/badge/100K%2B-monthly%20users%20served%20at%20Jio-238636?style=flat-square" alt="100K+ monthly users" />
   <img src="https://img.shields.io/badge/A%2A-top%20annual%20rating%20at%20Jio-bb8009?style=flat-square" alt="A* rating" />
@@ -75,12 +75,12 @@ load **~40%** with an Angular 17 SSR migration on EC2.
 
 ## Open source contributions
 
-**27 pull requests merged into other companies' repositories** since August 2026, **22 of them
+**28 pull requests merged into other companies' repositories** since August 2026, **23 of them
 into agent orchestration frameworks**. Every one is public and checkable.
 
 | Repository | Owner | Language | Merged |
 | --- | --- | --- | --- |
-| [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | AWS | Python | **15** |
+| [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | AWS | Python | **16** |
 | [google/adk-go](https://github.com/google/adk-go/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | Google | Go | **5** |
 | [anthropics/buffa](https://github.com/anthropics/buffa/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | Anthropic | Rust | **4** |
 | [a2aproject/a2a-js](https://github.com/a2aproject/a2a-js/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | Agent2Agent / Linux Foundation | TypeScript | **2** |
