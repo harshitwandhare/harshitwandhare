@@ -18,9 +18,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YosemiteCrew/Yosemite-Crew/commits/main?author=harshit%40yosemitecrew.com"><img src="https://img.shields.io/badge/1%2C394%20commits-more%20than%20anyone%20else%20on%20the%20repo-1f6feb?style=flat-square" alt="1,394 commits on Yosemite Crew, more than any other contributor" /></a>
   <a href="#open-source-contributions"><img src="https://img.shields.io/badge/28%20pull%20requests-merged%20into%20Google%2C%20AWS%2C%20NVIDIA%20%26%20Anthropic%20repos-8957e5?style=flat-square" alt="28 pull requests merged into upstream repositories" /></a>
-  <a href="https://github.com/YosemiteCrew/Yosemite-Crew"><img src="https://img.shields.io/github/stars/YosemiteCrew/Yosemite-Crew?style=flat-square&label=stars%20on%20that%20project&color=8957e5" alt="Stars on Yosemite Crew" /></a>
+  <a href="https://apps.apple.com/us/app/yosemite-crew/id6756180296"><img src="https://img.shields.io/badge/Shipped%20to%20both%20app%20stores-React%20Native%2C%20empty%20repo%20to%20release-1f6feb?style=flat-square" alt="Mobile app shipped to the App Store and Google Play" /></a>
   <img src="https://img.shields.io/badge/100K%2B-monthly%20users%20served%20at%20Jio-238636?style=flat-square" alt="100K+ monthly users" />
   <img src="https://img.shields.io/badge/A%2A-top%20annual%20rating%20at%20Jio-bb8009?style=flat-square" alt="A* rating" />
 </p>
@@ -51,16 +50,17 @@ provisioning workflows, and maintain the legacy Perl automation behind identity 
 
 **Product Engineer, Yosemite Crew (DuneXploration UG, Germany)** · Remote · 2025 to 2026
 
-Owned engineering for [**YosemiteCrew/Yosemite-Crew**](https://github.com/YosemiteCrew/Yosemite-Crew),
-an open-source veterinary practice-management system, at a three-person company. Wrote
-[**1,394 commits, more than any other contributor on the
-project**](https://github.com/YosemiteCrew/Yosemite-Crew/commits/main?author=harshit%40yosemitecrew.com), which has
-since passed 2,000 GitHub stars. Designed HL7/FHIR-aligned clinical data models. Integrated IDEXX
+Owned engineering for Yosemite Crew, an open-source veterinary practice-management system, at a
+three-person company. Wrote **1,394 commits, more than any other engineer on the project**. Built
+the React Native app from an empty repository and shipped it to the
+[**App Store**](https://apps.apple.com/us/app/yosemite-crew/id6756180296) and
+[**Google Play**](https://play.google.com/store/apps/details?id=com.mobileappyc), owning builds,
+signing, store listings and review. Designed HL7/FHIR-aligned clinical data models. Integrated IDEXX
 Laboratories and Merck Veterinary Manual APIs. Built sign-in on AWS Cognito and Amplify Gen 2,
 covering OAuth across several identity providers and email with one-time codes, and wrote the
 integration docs the backend engineer worked from. Owned Lambda, S3, CloudFront, Redis and the
-GitHub Actions estate across three codebases in a Turborepo monorepo. Shipped the React Native app
-to both stores. Ran requirements-gathering interviews with practising veterinarians, vet nurses and
+GitHub Actions estate across three codebases in a Turborepo monorepo. Ran requirements-gathering
+interviews with practising veterinarians, vet nurses and
 practice owners, mapping their workflows and the systems they already used, and turned the findings
 into the roadmap. Hired and onboarded the next engineer against specs I wrote.
 
