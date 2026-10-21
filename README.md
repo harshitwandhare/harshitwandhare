@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="#open-source-contributions"><img src="https://img.shields.io/badge/28%20pull%20requests-merged%20into%20Google%2C%20AWS%2C%20NVIDIA%20%26%20Anthropic%20repos-8957e5?style=flat-square" alt="28 pull requests merged into upstream repositories" /></a>
+  <a href="#open-source-contributions"><img src="https://img.shields.io/badge/34%20pull%20requests-merged%20into%20AWS%2C%20Google%2C%20Anthropic%2C%20NVIDIA%20%26%20Linux%20Foundation%20repos-8957e5?style=flat-square" alt="34 pull requests merged into upstream repositories" /></a>
   <a href="https://apps.apple.com/us/app/yosemite-crew/id6756180296"><img src="https://img.shields.io/badge/Shipped%20to%20both%20app%20stores-React%20Native%2C%20empty%20repo%20to%20release-1f6feb?style=flat-square" alt="Mobile app shipped to the App Store and Google Play" /></a>
   <img src="https://img.shields.io/badge/100K%2B-monthly%20users%20served%20at%20Jio-238636?style=flat-square" alt="100K+ monthly users" />
   <img src="https://img.shields.io/badge/A%2A-top%20annual%20rating%20at%20Jio-bb8009?style=flat-square" alt="A* rating" />
@@ -75,15 +75,16 @@ load **~40%** with an Angular 17 SSR migration on EC2.
 
 ## Open source contributions
 
-**28 pull requests merged into other companies' repositories** since August 2026, **23 of them
-into agent orchestration frameworks**. Every one is public and checkable.
+**34 pull requests merged into other companies' repositories** since August 2026, **28 of them
+into agent frameworks**. Every one is public and checkable.
 
 | Repository | Owner | Language | Merged |
 | --- | --- | --- | --- |
-| [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | AWS | Python | **16** |
-| [google/adk-go](https://github.com/google/adk-go/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | Google | Go | **5** |
+| [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | AWS | Python | **19** |
+| [google/adk-go](https://github.com/google/adk-go/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | Google | Go | **6** |
 | [anthropics/buffa](https://github.com/anthropics/buffa/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | Anthropic | Rust | **4** |
-| [a2aproject/a2a-js](https://github.com/a2aproject/a2a-js/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | Agent2Agent / Linux Foundation | TypeScript | **2** |
+| [a2aproject/a2a-js](https://github.com/a2aproject/a2a-js/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | Agent2Agent / Linux Foundation | TypeScript | **3** |
+| [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | NVIDIA | Python | **1** |
 | [NVIDIA/cosmos-framework](https://github.com/NVIDIA/cosmos-framework/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | NVIDIA | Python | **1** |
 
 The ones I would point at first, because they say what kind of engineer I am more than a count does:
@@ -93,7 +94,7 @@ The ones I would point at first, because they say what kind of engineer I am mor
   neither scheme-aware nor safe against a malformed header.
 - **`test(remoteagent): name the awaited event instead of panicking on a closed channel`**
   (adk-go). A concurrency bug that failed by panicking rather than by saying what it was waiting on.
-- **`fix(llminternal): classify a dropped live connection by type, not by error string`** (adk-go).
+- **`fix(llminternal): classify a dropped live connection by type, not error text`** (adk-go).
 - **`fix(mcp): enforce a profile's tools allowlist for assign and handoff`** (awslabs). A tool
   allowlist that was not being checked on two code paths.
 
@@ -111,8 +112,20 @@ it compound across runs, and destructive host actions are **approval-gated in co
 Three interchangeable runtimes, Claude Agent SDK, LangGraph and fully-local Ollama, sit behind one
 typed protocol. **[Live dashboard](https://atlas-ra.vercel.app)**
 
-> Python · FastAPI · asyncio · Next.js · WebSocket · SQLite · `mypy --strict` · 59 tests ·
+> Python · FastAPI · asyncio · Next.js · WebSocket · SQLite · `mypy --strict` · 83 tests ·
 > behavioural evals gating CI · MIT
+
+**[Kalki](https://github.com/harshitwandhare/kalki)** turns one prompt into a finished vertical
+video. A LangGraph state machine carries it through script, images, animation, voiceover and
+post-production, streaming each phase to the browser as it lands, and each step runs on whichever
+model is best at it: Gemini 2.5 Pro writes, Stability draws, Seedance and Kling animate, ElevenLabs
+speaks, ffmpeg cuts. Publishing presets for eight platforms carry each one's caption and hashtag
+limits next to where its **AI disclosure** has to be set. It could only be open sourced after the
+account-farming and detection-evasion code came out of it, and a policy test now fails the build if
+any of that returns. **[Live](https://kalki-studio.vercel.app)**
+
+> TypeScript · Next.js · LangGraph · Prisma · PostgreSQL + pgvector · NextAuth · role-gated API
+> routes · 35 tests · MIT
 
 **[Job Sentinel](https://github.com/harshitwandhare/job-sentinel)** is a local-first, open-source
 career platform. It aggregates postings across sources, scores role fit with a local or
@@ -121,12 +134,13 @@ all on your own machine with nothing leaving it. Ships a clip-to-track browser e
 CLI, a Next.js UI and a FastAPI backend.
 **[Live demo](https://job-sentinel.vercel.app)** · [docs](https://harshitwandhare.github.io/job-sentinel/)
 
-> Python · FastAPI · Playwright · Next.js · SQLite · `mypy --strict` · 500+ tests ·
+> Python · FastAPI · Playwright · Next.js · SQLite · `mypy --strict` · 590+ tests ·
 > CI gates: CodeQL · OpenSSF Scorecard · gitleaks · pip-audit · license compliance · MIT
 
 **[Portfolio](https://github.com/harshitwandhare/portfolio)** is this site's source. The centrepiece
-is a *tipkyanchi rangoli*, a dot lattice with a single unbroken line drawn around every dot, solved
-live in the browser and then drawn over a year of real commit history.
+is a *tipkyanchi rangoli*, the dot-grid form from my own region: a lattice of dots with a single
+unbroken line drawn around every one of them, never crossing itself, closing where it began. The
+page starts from thirteen separate loops and splices them into one, and you can watch it do it.
 **[harshitwandhare.com](https://harshitwandhare.com)**
 
 > Next.js · TypeScript strict · Playwright across 4 browsers · axe · Lighthouse 100/100/100/100 · MIT
