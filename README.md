@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="#open-source-contributions"><img src="https://img.shields.io/badge/34%20pull%20requests-merged%20into%20AWS%2C%20Google%2C%20Anthropic%2C%20NVIDIA%20%26%20Linux%20Foundation%20repos-8957e5?style=flat-square" alt="34 pull requests merged into upstream repositories" /></a>
+  <a href="#open-source-contributions"><img src="https://img.shields.io/badge/36%20pull%20requests-merged%20into%20AWS%2C%20Google%2C%20Anthropic%2C%20NVIDIA%20%26%20Linux%20Foundation%20repos-8957e5?style=flat-square" alt="36 pull requests merged into upstream repositories" /></a>
   <a href="https://apps.apple.com/us/app/yosemite-crew/id6756180296"><img src="https://img.shields.io/badge/Shipped%20to%20both%20app%20stores-React%20Native%2C%20empty%20repo%20to%20release-1f6feb?style=flat-square" alt="Mobile app shipped to the App Store and Google Play" /></a>
   <img src="https://img.shields.io/badge/100K%2B-monthly%20users%20served%20at%20Jio-238636?style=flat-square" alt="100K+ monthly users" />
   <img src="https://img.shields.io/badge/A%2A-top%20annual%20rating%20at%20Jio-bb8009?style=flat-square" alt="A* rating" />
@@ -75,12 +75,12 @@ load **~40%** with an Angular 17 SSR migration on EC2.
 
 ## Open source contributions
 
-**34 pull requests merged into other companies' repositories** since August 2026, **28 of them
+**36 pull requests merged into other companies' repositories** since August 2026, **30 of them
 into agent frameworks**. Every one is public and checkable.
 
 | Repository | Owner | Language | Merged |
 | --- | --- | --- | --- |
-| [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | AWS | Python | **19** |
+| [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | AWS | Python | **21** |
 | [google/adk-go](https://github.com/google/adk-go/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | Google | Go | **6** |
 | [anthropics/buffa](https://github.com/anthropics/buffa/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | Anthropic | Rust | **4** |
 | [a2aproject/a2a-js](https://github.com/a2aproject/a2a-js/pulls?q=is%3Apr+is%3Amerged+author%3Aharshitwandhare) | Agent2Agent / Linux Foundation | TypeScript | **3** |
