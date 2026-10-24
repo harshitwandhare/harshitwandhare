@@ -104,6 +104,19 @@ opening the pull request.
 
 ## Featured work
 
+**[Mohar](https://github.com/harshitwandhare/mohar)** is a trust layer for AI agents. An agent earns
+what it is allowed to do from **verified results**, and loses it the moment it gets something wrong.
+Trust is scoped **per capability** rather than one score per agent, because being reliable at editing
+docs says nothing about being safe with a database migration. Every decision leaves a signed receipt.
+**[Website](https://mohar-liard.vercel.app)** · **[Docs](https://harshitwandhare.github.io/mohar/)**
+
+> Rust · ed25519 over JCS-canonicalised JSON · hash-chained receipt log · CLI for Linux, macOS and
+> Windows · format test vectors with an independent Python checker · CodeQL · gitleaks · OpenSSF
+> Scorecard · Apache-2.0
+>
+> **v0.1.0, and early.** The receipt log and CLI are released. The trust engine, verifiers and host
+> adapters are designed and on the roadmap, not built.
+
 **[ATLAS](https://github.com/harshitwandhare/atlas-ra)** is a multi-team AI agent system built like
 infrastructure rather than a demo. An orchestrator routes goals to specialist teams and a **Critic
 verifies every result** before it counts as done. **Three memory tiers** (an episodic SQLite ledger,
