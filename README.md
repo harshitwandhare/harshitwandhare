@@ -51,7 +51,7 @@ provisioning workflows, and maintain the legacy Perl automation behind identity 
 **Product Engineer, Yosemite Crew (DuneXploration UG, Germany)** · Remote · 2025 to 2026
 
 Owned engineering for Yosemite Crew, an open-source veterinary practice-management system, at a
-three-person company. Wrote **1,394 commits, more than any other engineer on the project**. Built
+three-person company, over **1,300+ commits** as one of two engineers. Built
 the React Native app from an empty repository and shipped it to the
 [**App Store**](https://apps.apple.com/us/app/yosemite-crew/id6756180296) and
 [**Google Play**](https://play.google.com/store/apps/details?id=com.mobileappyc), owning builds,
