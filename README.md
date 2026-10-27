@@ -50,8 +50,9 @@ provisioning workflows, and maintain the legacy Perl automation behind identity 
 
 **Product Engineer, Yosemite Crew (DuneXploration UG, Germany)** · Remote · 2025 to 2026
 
-Owned engineering for Yosemite Crew, an open-source veterinary practice-management system, at a
-three-person company, over **1,300+ commits** as one of two engineers. Built
+Owned engineering for [Yosemite Crew](https://github.com/YosemiteCrew/Yosemite-Crew), an
+open-source veterinary practice-management system, at a
+three-person company, across [**1,394 commits**](https://github.com/YosemiteCrew/Yosemite-Crew/commits/main?author=harshit@yosemitecrew.com). Built
 the React Native app from an empty repository and shipped it to the
 [**App Store**](https://apps.apple.com/us/app/yosemite-crew/id6756180296) and
 [**Google Play**](https://play.google.com/store/apps/details?id=com.mobileappyc), owning builds,
